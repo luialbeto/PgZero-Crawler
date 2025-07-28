@@ -1,5 +1,8 @@
 # PgZero-Crawler
 
+<img width="810" height="585" alt="image" src="https://github.com/user-attachments/assets/75048edc-9a35-4813-a7e0-d33b1b030c9e" />
+
+
 # Dungeon Crawler - Roguelike Game
 
 Um jogo roguelike desenvolvido em Python utilizando a biblioteca PgZero, com visão de cima para baixo, movimento suave entre células e animações de sprites
